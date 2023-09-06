@@ -29,7 +29,7 @@ const ProjectDetail = () => {
 
 
 
-  return (<div className='m-0 p-0 flex  flex-col items-end  space-y-6  pr-2'>
+  return (<div className='m-0 p-0 flex  flex-col items-end  space-y-6  pr-2 p-5'>
       <Header title={'Design system'}/>
    
       <div className='w-[97%] flex flex-col       h-[35.3125] bg-[#F3FAFE] rounded-[14px] space-y-3 py-5 '>
